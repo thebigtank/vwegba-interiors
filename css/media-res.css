@@ -1,0 +1,39 @@
+@media screen and (max-width: 1440px) {
+    .section-b .bg-dark {
+        height: 235px;
+        width: 69%;
+        top: -68px;
+    }
+}
+
+
+
+@media screen and (max-width: 1024px) {
+    section.section-a {
+        height: 418px;
+        padding-bottom: 30px;
+    }
+
+    .section-a .theme {
+        position: relative;
+        top: 100px;
+    }
+
+    .section-a .theme h1 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+
+    .section-a .theme-img {
+        position: relative;
+        top: 80px;
+        height: auto;
+        width: 100%;
+    }
+
+    .section-b .bg-dark {
+        height: 208px;
+        width: 73%;
+        top: -52px;
+    }
+}
